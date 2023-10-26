@@ -1,0 +1,93 @@
+/* font-family: 'Amantic SC', sans-serif; */
+/* font-family: 'Handlee', cursive; */
+/* font-family: 'Lobster', sans-serif; */
+/* font-family: 'Noto Sans Mono', monospace; */
+.Amantic-sc {
+    font-family: 'Amantic SC', sans-serif;
+}
+
+.handlee {
+    font-family: 'Handlee', cursive;
+}
+
+.lobster {
+    font-family: 'Lobster', sans-serif;
+}
+
+.noto-sans-mono {
+    font-family: 'Noto Sans Mono', monospace;
+}
+
+h1, h2, p, li {
+    font-family:'Noto Sans Mono', sans-serif;
+}
+
+.container {
+    border: 1px solid black;
+    background-color: rgba(0, 0, 0, 0.153);
+    margin: 10px auto;
+}
+
+.color-panel{
+    display: inline-block;
+    width: 32%;
+    margin: 20px auto;
+    min-height: 100px;
+    text-align: center;
+}
+
+.dark-green {
+    background-color: rgb(30,130,76);
+}
+
+.yellow {
+    background-color: rgb(240, 255, 0);
+}
+
+.ivory {
+    background-color: rgb(255, 255, 240);
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.font-panel {
+    display: inline-block;
+    width: 32%
+}
+
+.font-label {
+    text-decoration: underline;
+}
+
+.font-panel p {
+    font-size: 20px;
+}
+
+.text-styles {
+    margin: 20px auto;
+}
+
+.h1-label {
+    font-family: 'Noto Sans Mono', monospace;
+    font-size: 32px;
+    font-weight: 700;
+
+}
+
+.h2-label{
+    font-family: 'Amantic SC', sans-serif;
+    font-size: 26px;
+    font-weight: 700;
+}
+
+.p-label {
+    font-family: 'Amantic SC', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
